@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1",
+    "hypothesis": "The feature extraction and interpretation methodology from InterPLM can be successfully reproduced and scaled to larger protein datasets while maintaining interpretability and biological relevance of the extracted features."
+  },
+  {
+    "id": "example-1",
+    "hypothesis": "This is an example hypothesis that demonstrates the expected format.",
+    "_isExample": true
+  }
+]

@@ -1,0 +1,5 @@
+This research aims to validate and extend the findings of the InterPLM paper by implementing their feature extraction and interpretation methodology on a comprehensive protein dataset. The study will focus on extracting interpretable features from pre-trained protein language models (PLMs) and developing clear, biologically meaningful labels for these features.
+
+The project will utilize state-of-the-art PLMs trained on protein sequences and implement the InterPLM framework to extract and analyze latent features. Special attention will be paid to the interpretation pipeline, ensuring that the extracted features can be mapped to known biological properties, structural elements, and functional domains.
+
+The research will extend beyond the original paper by applying these methods to a larger, more diverse protein dataset, potentially incorporating sequences from UniProt's complete database. This expansion will test the generalizability of the InterPLM approach and potentially uncover new patterns in feature representation across a broader protein space.
